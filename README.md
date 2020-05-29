@@ -19,7 +19,7 @@
 
 <p>3) Agora instale o gerenciador de pacotes npm:</p>
 
-<p><code>sudo apt install npm</b>code></p>
+<p><code>sudo apt install npm</code></p>
 <p><code>npm -v</code></p>
 
 <p>Vamos precisar instalar alguns outros utilitários/frameworks. </p>
