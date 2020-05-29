@@ -31,7 +31,7 @@
 
 <p>5) Instale o EJS:</p>
 
-<p><code>npm install ejs --save</b>code></p>
+<p><code>npm install ejs --save</code></p>
 
 <p>6) Instale o Nodemon:</p>
 
