@@ -14,7 +14,7 @@
 <p>2) Agora instale o gerenciador de versão do node:</p>
 
 <p><code>apt-get install build-essential libssl-dev</code></p>
-<p><code>curl https://raw.githubusercontent.com/creationix/nvm/v0.35.2/install.sh | bash</b>code></code></p>
+<p><code>curl https://raw.githubusercontent.com/creationix/nvm/v0.35.2/install.sh | bash</code></p>
 <p><code>nvm --version</code></p>
 
 <p>3) Agora instale o gerenciador de pacotes npm:</p>
